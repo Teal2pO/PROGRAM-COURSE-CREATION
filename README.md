@@ -9,7 +9,7 @@
 
 ## Overview
 
-This is the source code for the TEAL2.O Program Course Creation application. This application provides a python based wrapper for the content Moodle and its database to facilitate the collaborative interactive learning resource creation, management and version control by pushing and pulling associated meta data to a GitHuB repository.
+This is the source code for the TEAL2.O Program Program/Course Creation application. This application provides a python based wrapper for the creation, management and version control of programs and courses, depth/breadth mapping, and class room creation.
 
 
 ## Table of Contents
